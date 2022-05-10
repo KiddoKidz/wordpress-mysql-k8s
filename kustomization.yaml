@@ -1,0 +1,8 @@
+resources:
+  - ingress-service.yaml
+  - mysql-deployment.yaml
+  - mysql-cluster-ip-service.yaml
+  - mysql-pvc.yaml
+  - wordpress-deployment.yaml
+  - wordpress-cluster-ip-service.yaml
+  - wordpress-pvc.yaml
